@@ -1,0 +1,9 @@
+"./adc10.obj"
+"./encoder.obj"
+"./lcd.obj"
+"./main.obj"
+"./scheduler.obj"
+"./thermocouple.obj"
+"./triac.obj"
+"../lnk_msp430f2274.cmd"
+-llibc.a
